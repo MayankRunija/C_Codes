@@ -260,4 +260,7 @@ void payment()
 	printf("THANK YOU %s FOR YOUR TIMELY PAYMENTS",s.name);
 	getch();
 	fclose(f);
+        fclose(f);
 }
+//MAYANK CODE
+//Copyright
