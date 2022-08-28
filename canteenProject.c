@@ -1,20 +1,3 @@
-
- 
-/*		 
- 
-	      SOFTWARE FOR THE USE OF CANTEEN DEPARTMENT
- 
-////INTRODUCTION////
-/////////////////////////////
-//NAME:- GOURAV.K.CHOUDHARY /
-//CLASS:- XI 'D'            /
-//ROLL NO.:- 33             /
-/////////////////////////////
-####################
-#CANTEEN MANAGEMENT#
-####################        */
- 
-/*## HEADER FILES ##*/
 #include<iostream.h>
 #include<conio.h>
 #include<string.h>
